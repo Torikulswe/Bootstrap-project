@@ -15,14 +15,11 @@ button{
 .buy-button{
 margin-left: 160px;
 }
-
-
 .card-img-top {
     width: 100%;
     height: 15vw;
     object-fit:contain;
-    background-color: rgb(194, 181, 194);
-    
+    background-color: rgb(194, 181, 194);   
 }
 .card-price{
     font-weight: 800;
@@ -31,15 +28,13 @@ margin-left: 160px;
 .card-title{
     font-weight: 800;
 }
-
 .carousel-item{
     width: 50%;
     margin-left: 300px;
     background-color: rgb(93, 161, 122);
     
 }
-@media only screen and (max-width: 768px) {
-    #carouselExampleCaptions {
-      align-items: center;
-    }
-  }
+.img-logo{
+    width:260px;
+}
+
